@@ -4,7 +4,7 @@ This is a simple Rock, Paper, Scissors game that you can play against the comput
 
 ## How to Play
 
-1. Open the `index.html` file in your web browser.
+1. Open the [Rock, Paper, Scissors Game](https://ash-taraghi.github.io/Rock-Paper-Scissors/) in your web browser.
 2. You will see the game interface with rules and options to choose from (Rock, Paper, Scissors).
 3. Click on your choice (Rock, Paper, or Scissors).
 4. The computer will randomly select its choice.
@@ -59,17 +59,4 @@ Displays the results of the round and updates the scores and messages on the scr
 
 ### `resetGame()`
 
-Resets the game state, including the scores and messages, and makes the game ready for a new round.
-
-## Event Listeners
-
-- Adds click event listeners to the Rock, Paper, and Scissors buttons to trigger the game logic.
-- Adds a click event listener to the "Play again?" button to reset the game.
-
-## How to Run
-
-1. Clone the repository or download the files.
-2. Open the `index.html` file in your web browser.
-3. Start playing the game by clicking on your choice (Rock, Paper, or Scissors).
-
-Enjoy playing Rock, Paper, Scissors!
+Resets the game state, including the scores
